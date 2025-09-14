@@ -16,22 +16,22 @@ module.exports = {
     const time = new Date().toLocaleString('en-US', { timeZone: 'Asia/Dhaka' });
 
     const profile = `
-『 𝗔𝗠𝗜𝗧 𝗠𝗔𝗫 ⚡ 』
+『 ⚡ 』
 
-• Name: Amit Max ⚡  
-• Class: Inter 1st  
-• Group: Accounting  
+• Name: siyu⚡  
+• Class:  
+• Group:  
 • Gender: Male  
-• DOB: 18-05-2006  
-• Religion: Sanatan  
+• DOB: 
+• Religion: islam
 • Blood: AB+  
 • Height: 5.5 ft  
-• Location: Khoksa, Kushtia  
+• Location: mymensing 
 • Hobby: Flirting  
 • Status: Single  
-• FB: fb.com/share/1564YX2VyT/  
-• IG: instagram.com/amitmax44  
-• Email: maxamit279@gmail.com  
+• FB: SÎ Y Âm :https://www.facebook.com/share/19QTqeU3Ry/
+• IG: SÎ Y Âm :https://www.instagram.com/creator_broh_0.1?igsh=Mzg0MzMwYm40dWhw
+• Email: mohammadsiyam0.12@gmail.com
 
 ⏰ Time: ${time}`;
 
